@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.a2712529.css",
+    "main.js": "/portfolio_react/static/js/main.2544233a.js",
+    "static/media/imgBanner.png": "/portfolio_react/static/media/imgBanner.5078cd9636121fa2105e.png",
+    "static/media/Montserrat-Medium.ttf": "/portfolio_react/static/media/Montserrat-Medium.598141984583bec97122.ttf",
+    "static/media/Montserrat-Light.ttf": "/portfolio_react/static/media/Montserrat-Light.73b7fd8d064d9bc6dcdd.ttf",
+    "static/media/Montserrat-Bold.ttf": "/portfolio_react/static/media/Montserrat-Bold.68c8d686f4b0d91b92f1.ttf",
+    "static/media/Montserrat-Regular.ttf": "/portfolio_react/static/media/Montserrat-Regular.7c8ccfe4b8a1b8ea2327.ttf",
+    "static/media/layoutSite.jpeg": "/portfolio_react/static/media/layoutSite.e969cc0ecdb0d943958e.jpeg",
+    "static/media/btnNavInicio.png": "/portfolio_react/static/media/btnNavInicio.b7e920c65dfe36601b1d.png",
+    "static/media/Shark02.jpg": "/portfolio_react/static/media/Shark02.61bbd99d36e15eec27af.jpg",
+    "static/media/icons-github-250.svg": "/portfolio_react/static/media/icons-github-250.6aafde907a97ac05ed917ee181ba93ae.svg",
+    "index.html": "/portfolio_react/index.html",
+    "static/media/icons-linkedin-250.svg": "/portfolio_react/static/media/icons-linkedin-250.301c264fdbdc95055ea06d75c6a3831a.svg",
+    "main.a2712529.css.map": "/portfolio_react/static/css/main.a2712529.css.map",
+    "main.2544233a.js.map": "/portfolio_react/static/js/main.2544233a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2712529.css",
+    "static/js/main.2544233a.js"
+  ]
+}
